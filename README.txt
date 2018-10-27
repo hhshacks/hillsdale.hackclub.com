@@ -1,2 +1,2 @@
 Hillsdale Hack Club Website
-HTML5 UP - inspired
+HTML5 UP - Photon
